@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A9490D7524524B7D00A55DB8 /* golden-eagle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9490D7424524B7C00A55DB8 /* golden-eagle.jpg */; };
 		B6B059A00ECBC6B65A4C0C57 /* Pods_SportsApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02212098731D026A6999AFC8 /* Pods_SportsApp.framework */; };
 		C834271024540BF300254775 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C834270F24540BF300254775 /* AppDelegate.swift */; };
 		C834271524540BF300254775 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C834271324540BF300254775 /* Main.storyboard */; };
@@ -52,6 +53,7 @@
 /* Begin PBXFileReference section */
 		02212098731D026A6999AFC8 /* Pods_SportsApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SportsApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		230D34630B54BE951399FF9E /* Pods-SportsApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsApp.debug.xcconfig"; path = "Target Support Files/Pods-SportsApp/Pods-SportsApp.debug.xcconfig"; sourceTree = "<group>"; };
+		A9490D7424524B7C00A55DB8 /* golden-eagle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "golden-eagle.jpg"; sourceTree = "<group>"; };
 		C834270C24540BF300254775 /* SportsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SportsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C834270F24540BF300254775 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C834271424540BF300254775 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 		C834270324540BF300254775 = {
 			isa = PBXGroup;
 			children = (
+				A9490D7424524B7C00A55DB8 /* golden-eagle.jpg */,
 				C834270E24540BF300254775 /* SportsApp */,
 				C834270D24540BF300254775 /* Products */,
 				0F21CFC7670DB73D1E06DF4F /* Pods */,
@@ -368,6 +371,7 @@
 				C834271A24540BF400254775 /* Assets.xcassets in Resources */,
 				C83427702454161B00254775 /* SportLeaguesTableCell.xib in Resources */,
 				C834271524540BF300254775 /* Main.storyboard in Resources */,
+				A9490D7524524B7D00A55DB8 /* golden-eagle.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
